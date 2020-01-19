@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="2.0">
+    <name>Výchozí</name>
+    <background type="solid">
+        <color>#000000</color>
+    </background>
+    <font type="main">
+        <name>Arial</name>
+        <color>#FFFFFF</color>
+        <size>65</size>
+        <bold>True</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="1060" override="True" width="1880" x="20" y="0"/>
+        <shadow shadowColor="#000000" shadowSize="5">True</shadow>
+        <outline outlineColor="#000000" outlineSize="2">True</outline>
+    </font>
+    <font type="footer">
+        <name>Arial</name>
+        <color>#000000</color>
+        <size>12</size>
+        <bold>False</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="0" override="True" width="1004" x="10" y="0"/>
+        <shadow shadowColor="#000000" shadowSize="5">True</shadow>
+        <outline outlineColor="#000000" outlineSize="2">False</outline>
+    </font>
+    <display>
+        <horizontalAlign>2</horizontalAlign>
+        <verticalAlign>2</verticalAlign>
+        <slideTransition>False</slideTransition>
+    </display>
+</theme>

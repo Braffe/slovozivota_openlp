@@ -13,7 +13,7 @@
         <line_adjustment>0</line_adjustment>
         <location height="1060" override="True" width="1880" x="20" y="0"/>
         <shadow shadowColor="#000000" shadowSize="5">True</shadow>
-        <outline outlineColor="#000000" outlineSize="2">True</outline>
+        <outline outlineColor="#000000" outlineSize="4">True</outline>
     </font>
     <font type="footer">
         <name>Arial</name>

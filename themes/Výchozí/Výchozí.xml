@@ -12,7 +12,7 @@
         <italics>False</italics>
         <line_adjustment>0</line_adjustment>
         <location height="1060" override="True" width="1880" x="20" y="0"/>
-        <shadow shadowColor="#000000" shadowSize="5">True</shadow>
+        <shadow shadowColor="#000000" shadowSize="10">True</shadow>
         <outline outlineColor="#000000" outlineSize="4">True</outline>
     </font>
     <font type="footer">
